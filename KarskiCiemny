@@ -1,0 +1,16 @@
+body {
+    font-family: "Times New Roman";
+}
+#Background {
+    display: inline;
+    padding: 5px;
+    background-color: #0033CC;
+    width: 60%;
+    height: 10%;
+}
+#Foreground {
+   padding: 10px;
+    width: 15%;
+    height: 40%;
+    background-color:#777777;
+}
